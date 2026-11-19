@@ -50,3 +50,4 @@
 | funding_agency_acronym | str | 0 | 0.0 | 15 | USAID |
 | aid_type_group_name | str | 0 | 0.0 | 6 | Budget support |
 | activity_description | str | 0 | 0.0 | 1378 | Pakistan Emergency Economic As |
+
