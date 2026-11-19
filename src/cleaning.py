@@ -19,3 +19,23 @@ def parse_dates(df, columns):
     for col in columns:
         result[col] = pd.to_datetime(result[col], errors="coerce", utc=True)
     return result
+
+def fill_missing_categories(df, columns, fill_value="Unknown"):
+    """Fill missing text values in the given columns with fill_value.
+
+    Returns a new DataFrame. The input DataFrame is not changed.
+    """
+    result = df.copy()
+    for col in columns:
+        result[col] = result[col].fillna(fill_value)
+    return result
+
+
+def flag_negative_amounts(df, column="current_amount"):
+    """Add a True/False column marking rows where the amount is negative.
+
+    Rows are kept (not deleted). Returns a new DataFrame.
+    """
+    result = df.copy()
+    result["is_negative_amount"] = result[column] < 0
+    return result
