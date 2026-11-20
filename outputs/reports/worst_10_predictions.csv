@@ -1,0 +1,11 @@
+fiscal_year,aid_type_group_name,dac_sector_name,current_amount,predicted_amount,abs_error
+2019,Project-Type,Basic Education,1,1010504.0,6.00453785609713
+2019,Project-Type,"Maternal and Child Health, Family Planning",1,336836.0,5.527418097624483
+2020,Budget support,Transport and Storage,1,333257.0,5.522778688661949
+2019,Project-Type,Government and Civil Society,14,586955.0,4.622477051283571
+2020,Project-Type,Government and Civil Society,34,586955.0,4.237126169919554
+2019,Project-Type,"Conflict, Peace, and Security",115,1513270.0,4.119218543252929
+2019,Project-Type,"Conflict, Peace, and Security",115,1513270.0,4.119218543252929
+2019,Project-Type,"Conflict, Peace, and Security",261,1513270.0,3.76327587626826
+2019,Administrative Costs,Administration and Oversight,22,113656.0,3.7131685696490657
+2018,Project-Type,Disaster Prevention and Preparedness,68,213276.0,3.4964328996690233
