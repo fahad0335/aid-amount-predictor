@@ -1,0 +1,4 @@
+model,cv_mae_log10,test_mae_log10,test_rmse_log10,test_r2,test_typical_error_factor
+Baseline (median),1.017,1.007,1.312,-0.012,10.2
+Ridge,0.878,0.833,1.116,0.267,6.8
+Random Forest,1.305,0.792,1.078,0.316,6.2
