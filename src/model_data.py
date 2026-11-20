@@ -1,4 +1,4 @@
-# Name: Shah Fahad  Roll no: TRN-2026-000706  Date: 20-11-2026
+# Name: Shah Fahad  Roll no: TRN-2026-000706  Date: 19-11-2026
 # Purpose: Part B ke liye data tayyar karna: target, features aur time-based split.
 import numpy as np
 import pandas as pd

@@ -5,7 +5,7 @@ Name:Shah fahad Roll no:TRN-2026-000706
 ## Dataset
 - US Aid to Pakistan (2001-2021), 8,297 rows and 21 columns
 - Source URL: https://opendata.com.pk/dataset/us-aid-to-pakistan
-- Licence: CC BY (to be confirmed on the source page)
+- Licence: Not visible without a login on the source page (checked 19-11-2026). My TA confirmed on 20-11-2026 that the dataset can be used for this assignment.
 - Access date: 19-11-2026
 - Raw file: `data/raw/us_aid_pakistan.csv` (never edited)
 
@@ -81,3 +81,6 @@ The saved pipeline is `outputs/models/aid_amount_pipeline.joblib`. `src/predict.
 
 ## Tools used
 I used Claude (Anthropic) to explain errors and concepts and to help draft code. I ran and tested everything.
+
+## Part C
+Part C (exploration homework) was not attempted.

@@ -1,4 +1,4 @@
-# Name: ...  Roll no: ...  Date: ...
+# Name: Shah Fahad  Roll no: TRN-2026-000706  Date: 19-11-2026
 # Purpose:save clean data to SQLite database and run SQL query to get aid by type, save result to CSV.
 import sqlite3
 import pandas as pd

@@ -1,4 +1,4 @@
-# Name: ...  Roll no: ...  Date: ...
+# Name: Shah Fahad  Roll no: TRN-2026-000706  Date: 19-11-2026
 # Purpose: save predictions to a CSV file.
 # Use: python -m src.predict data/new_rows_sample.csv outputs/predictions.csv
 import sys
