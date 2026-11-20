@@ -10,11 +10,9 @@ Name:Shah fahad Roll no:TRN-2026-000706
 - Raw file: `data/raw/us_aid_pakistan.csv` (never edited)
 
 ## Setup
-```
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
-```
 
 ## How to run (from the project folder, in this order)
 ```
